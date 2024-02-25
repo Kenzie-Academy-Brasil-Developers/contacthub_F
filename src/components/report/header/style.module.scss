@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+
+        img {
+            width: 50px;
+        }
+
+        .redirectDashBoard {
+            font-size: 1.2rem;
+            color: var(--color-secondary);
+            font-family: var(--font-secondary);
+            font-weight: 600;
+        }
+}

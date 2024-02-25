@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    background-color: var(--color-secondary);
+    width: 250px;
+    margin-right: 35px;
+
+    border-radius: 6px;
+
+    p {
+        font-family: var(--font-secondary);
+        font-size: 1rem;
+        margin: 10px
+    }
+
+}
+
+.containerButtons {
+    margin-bottom: 5px;
+
+    button {
+        width: 80px;
+        height: 40px;
+        margin: 20px;
+        border-radius: 6px;
+        color: var(--color-third);
+        background-color: var(--color-primary);
+    }
+}
