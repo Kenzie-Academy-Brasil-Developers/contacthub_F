@@ -1,9 +1,9 @@
+import { DashBoardComponent } from "../../components/dashboard";
+
 export const Dashboard = () => {
-    return (
-            <main>
-                <div>
-                    <h1>Dashboard</h1>
-                </div>
-            </main>
-        )
-}
+  return (
+    <main>
+      <DashBoardComponent />
+    </main>
+  );
+};

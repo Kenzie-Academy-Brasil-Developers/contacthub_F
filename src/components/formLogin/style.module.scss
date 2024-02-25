@@ -1,0 +1,39 @@
+.container {
+  max-width: 100;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  input {
+    width: 100%;
+    height: 42px;
+    border: 2px solid;
+    border-radius: 4px;
+    color: var(--color-third);
+    border-color: var(--color-secondary);
+  }
+
+  label {
+    font-size: 1rem;
+    color: var(--color-third);
+  }
+
+  p {
+    font-size: 0.7rem;
+    color: var(--color-third);
+  }
+
+  .redirectRegister {
+    font-size: 0.7rem;
+    color: var(--color-secondary);
+  }
+
+  button {
+    width: 70%;
+    height: 42px;
+    border-radius: 4px;
+    background-color: var(--color-secondary);
+    color: var(--color-third);
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,14 @@
+:root {
+  --font-primary: "Inter", sans-serif;
+  --font-secondary: "Inika", sans-serif;
+  --color-primary: #151d3b;
+  --color-secondary: #d82148;
+  --color-third: #e1ffec;
+}
+
+body {
+  background-color: var(--color-primary);
+  font-family: var(--font-primary);
+  color: var(--color-third);
+  margin: 1rem;
+}
