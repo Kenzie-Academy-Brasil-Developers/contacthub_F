@@ -1,6 +1,7 @@
 # ContacHub
 
 O Contact Hub é uma aplicação full stack, que tem como objetivo gerenciar contatos.
+Back-end da aplicação: https://github.com/Kenzie-Academy-Brasil-Developers/contacthub_B
 
 ## Pré-requisitos
 
