@@ -1,6 +1,6 @@
 # ContacHub
 
-Descrição curta do seu projeto.
+O Contact Hub é uma aplicação full stack, que tem como objetivo gerenciar contatos.
 
 ## Pré-requisitos
 
